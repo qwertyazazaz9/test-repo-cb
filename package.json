@@ -1,0 +1,23 @@
+{
+  "name": "my_app",
+  "version": "0.1.0",
+  "description": "честно - шляпа.. честнее - самбреро",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwertyazazaz9/test-repo-cb.git"
+  },
+  "keywords": [
+    "шляпа",
+    "самбреро"
+  ],
+  "author": "cullfy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwertyazazaz9/test-repo-cb/issues"
+  },
+  "homepage": "https://github.com/qwertyazazaz9/test-repo-cb#readme"
+}
